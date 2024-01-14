@@ -8,3 +8,6 @@ This experiment has a Kaggle link with a cloud equivalent [Kaggle](https://www.k
 
 ## Experiment 2: ML Model for Image Classification (Dogs vs Cats), practical example.
 This experiment involves the creation and utilization of a ml model for image classification, specifically distinguishing between images of dogs and cats. The project consists of two main components: a Jupyter Notebook file for generating the model and another file for using the generated model. The "Using Model.ipynb" shows how to utilize the trained model for making predictions on new images. There are some instructions on how to run the local instance of the Gradio site. This site is also available on [Huggingface](https://huggingface.co/spaces/ArtemDovbysh/minimal). The [Keggle link](https://www.kaggle.com/code/artemdovbysh/saving-a-basic-fastai-model).
+
+## Experiment 3: How does a neural net really work
+Experiment 3 kicks off by delving into the fundamentals of gradient descent and its intertwining with machine learning([Keggle](https://www.kaggle.com/code/artemdovbysh/how-does-a-neural-net-really-work)). Additionally, there's a segment dedicated to evaluating the top-performing image models in machine learning([Keggle](https://www.kaggle.com/code/artemdovbysh/which-image-models-are-best)).
