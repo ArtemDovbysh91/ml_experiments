@@ -11,3 +11,6 @@ This experiment involves the creation and utilization of a ml model for image cl
 
 ## Experiment 3: How does a neural net really work
 Experiment 3 kicks off by delving into the fundamentals of gradient descent and its intertwining with machine learning([Keggle](https://www.kaggle.com/code/artemdovbysh/how-does-a-neural-net-really-work)). Additionally, there's a segment dedicated to evaluating the top-performing image models in machine learning([Keggle](https://www.kaggle.com/code/artemdovbysh/which-image-models-are-best)).
+
+## Experiment 4: Getting started with NLP for absolute beginners
+The process starts with importing the data. Next, it moves on to Tokenization and numericalization. Following that, it readies the test dataset to assess the training quality. This is succeeded by training, measuring prediction accuracy, and finally, evaluating the results.
